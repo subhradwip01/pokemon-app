@@ -1,70 +1,10 @@
-# Getting Started with Create React App
+## Output
+![Screenshot 2024-06-22 111046](https://github.com/subhradwip01/pokemon-app/assets/88609894/b1863f2c-afe8-4260-9c1e-7e723d3b9d32)
+![Screenshot 2024-06-22 112954](https://github.com/subhradwip01/pokemon-app/assets/88609894/c5a2ee08-f476-460a-9b10-8ca2e6bc742b)
+![Screenshot 2024-06-22 111055](https://github.com/subhradwip01/pokemon-app/assets/88609894/f5bed85f-891d-48c2-9496-e4d4326b45a5)
+![Screenshot 2024-06-22 113203](https://github.com/subhradwip01/pokemon-app/assets/88609894/fd3c3cb1-e428-4f8d-8a33-71c9f6c8fbdd)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Mobile View:
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-06-22 113318](https://github.com/subhradwip01/pokemon-app/assets/88609894/e4ba7b9b-6e3b-4b86-8d7f-6f90bfee5468)
+![Screenshot 2024-06-22 113423](https://github.com/subhradwip01/pokemon-app/assets/88609894/7ed82d0b-11a2-41cd-8ddc-0d8ec011ee78)
